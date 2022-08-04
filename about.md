@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a freshman at [Columbia University](https://columbia.edu) studying physics and philosophy.
+I am a sophomore at [Columbia University](https://columbia.edu) studying physics.
 
 ### Contact me
 
