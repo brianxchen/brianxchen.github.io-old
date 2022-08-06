@@ -12,10 +12,10 @@ Some of my other interests include [badminton](http://www.columbia.edu/cu/badmin
 
 ## Timeline
 
-**May 2022** - Joined Hillman Lab for summer research.
-**September 2021** - Entered freshman year at Columbia University.
-**August 2021** - Wrapped up work at UW. Beyond grateful for the experience and mentorship!
-**June 2021** - Graduated from Interlake High School.
+**May 2022** - Joined Hillman Lab for summer research.\
+**September 2021** - Entered freshman year at Columbia University.\
+**August 2021** - Wrapped up work at UW. Beyond grateful for the experience and mentorship!\
+**June 2021** - Graduated from Interlake High School.\
 **June 2020** - Joined UW's N-Body Shop research group.
 
 ## Contact me
