@@ -6,7 +6,7 @@ tags:
 ---
 ![_config.yml]({{ site.baseurl }}/images/taproom.JPG)
 
-You didn’t mean to stop here, but your weary feet brought you anyways. you sit down at the intersection and watch the rhythm of the traffic swirl around you: a Van Gogh twilight, this time of metal and rubber, not pastels and paint. 
+You didn’t mean to stop here, but your weary feet brought you anyways. You sit down at the intersection and watch the rhythm of the traffic swirl around you: a Van Gogh twilight, this time of metal and rubber, not pastels and paint. 
 
 Everyone is always in such a rush, you think to yourself. Always inching forward at the crosswalk, eager to save a few seconds, their own personal rebellion against that unmoving red hand. When they do cross, it’s with an air of distinct intention. A businessman, a runner, a mother pushing a stroller with a leather purse snaked around her shoulder, all with places to go: maybe home, maybe somewhere else, but never this city bench. Here time seems to freeze and accelerate at the same time. 
 
