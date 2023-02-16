@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How Maxwell's Equations hide the Wave Equation
+katex: True
 tags:
   - physics
   - math
