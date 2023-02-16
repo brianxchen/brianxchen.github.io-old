@@ -15,8 +15,8 @@ I want to make this post as accessible as possible to those without much math ba
 
 The wave equation in mathematics is an equation that governs how waves, like sound waves, water waves, and anything of a "periodic" or "wavey" sort evolves over time. 
 
-Mathematically, it is writen as the following: 
-$$\frac{\partial^2 u}{\partial t^2}=c^2\frac{\partial^2 u}{\partial x^2}$$. 
+Mathematically, it is writen as the following: \
+$$\frac{\partial^2 u}{\partial t^2}=c^2\frac{\partial^2 u}{\partial x^2}$$. \
 Let's go through these terms and see what they mean:
 
 $$\frac{\partial^2 u}{\partial t^2}$$ is an example of a **partial derivative** -- specifically, the second partial derivative of $$u$$ with respect to **time**. $$u$$ tells us how tall or short the wave is at any time -- in other words, it is a *function* that indicates the shape of the wave. Taking the "derivative" of something means seeing how that thing changes -- in this case, we're seeing how the shape of the wave changes over time. For anyone who has taken a calculus or calculus-based physics class, you may recognize that taking the "second derivative" of position with respect to time is acceleration.
@@ -38,14 +38,14 @@ What's important to note about these kinds of equations is that they are not "la
 
 Similarly, the fundamental set of equations that govern electricity and magnetism (at least in the classical sense) are called **Maxwell's equations**. I'll list the four Maxwell's equations here:
 
-1. $$\nabla \cdot \textbf{E}=\frac{\rho}{\epsilon_0}$$ (Gauss' Law) 
-$$\textbf{E}$$ = **Electric field**
+1. $$\nabla \cdot \textbf{E}=\frac{\rho}{\epsilon_0}$$ (Gauss' Law) \
+$$\textbf{E}$$ = **Electric field**\
 $$\rho$$ = **charge density**, or how much electric charge is enclosed within a certain volume. 
-2. $$\nabla \cdot \textbf{B}=0$$ (no name)
+2. $$\nabla \cdot \textbf{B}=0$$ (no name) \
 $$\textbf{B}$$ = **Magnetic field**
 3. $$\nabla \times \textbf{E}=-\frac{\partial B}{\partial t}$$ (Faraday's Law)
-4. $$\nabla \times \textbf{B}=\mu_0\textbf{J}+\mu_0\epsilon_0\frac{\partial \textbf{E}}{\partial t}$$ (Ampere's law with Maxwell's correction)
-$$\textbf{J}$$ = **current density**, or how much electric current is enclosed within a certain volume.
+4. $$\nabla \times \textbf{B}=\mu_0\textbf{J}+\mu_0\epsilon_0\frac{\partial \textbf{E}}{\partial t}$$ (Ampere's law with Maxwell's correction)\
+$$\textbf{J}$$ = **current density**, or how much electric current is enclosed within a certain volume.\
 $$\mu_0$$ and $$\epsilon_0$$ are fundamental constants.
 
 $$\nabla \cdot \textbf{A}$$ is called the **divergence** of $$\textbf{A}$$ and is a special kind of derivative used in vector calculus. In short, it is a measure of how much something like fluid tends to "move away" from a point.
@@ -60,27 +60,27 @@ We'll assume that there are **no sources** -- this means $$\rho=0$$ and $$\textb
 3. $$\nabla \times \textbf{E}=-\frac{\partial B}{\partial t}$$
 4. $$\nabla \times \textbf{B}=\mu_0\epsilon_0\frac{\partial \textbf{E}}{\partial t}$$
 
-Let's take the curl of equation 3:
+Let's take the curl of equation 3:\
 $$\nabla \times (\nabla \times \textbf{E})=\nabla \times (-\frac{\partial B}{\partial t})$$
 
-The curl of the curl of a vector field $$\textbf{A}$$ can be reformulated with the following identity:
-$$\nabla \times (\nabla \times \textbf{A})=\nabla(\nabla \cdot \textbf{A})-\nabla^2\textbf{A}$$,
+The curl of the curl of a vector field $$\textbf{A}$$ can be reformulated with the following identity:\
+$$\nabla \times (\nabla \times \textbf{A})=\nabla(\nabla \cdot \textbf{A})-\nabla^2\textbf{A}$$,\
 where $$\nabla^2\textbf{A}$$ is called the [**Laplacian**](https://en.wikipedia.org/wiki/Laplace_operator) of a vector field $$\textbf{A}$$.
 
-Using that identity, and taking the partial derivative on the right side outside of the parantheses, we get
+Using that identity, and taking the partial derivative on the right side outside of the parantheses, we get \
 $$\nabla(\nabla \cdot \textbf{E})-\nabla^2\textbf{E}=-\frac{\partial}{\partial t}(\nabla \times \textbf{B})$$
 
-We defined $$\nabla \cdot \textbf{E}=0$$ so the first term vanishes, and we can use equation 4 on the right side:
+We defined $$\nabla \cdot \textbf{E}=0$$ so the first term vanishes, and we can use equation 4 on the right side: \
 $$\cancel{\nabla(\nabla \cdot \textbf{E})}-\nabla^2\textbf{E}=-\frac{\partial}{\partial t}(\mu_0\epsilon_0\frac{\partial \textbf{E}}{\partial t})$$
 
-$$\mu_0\epsilon_0$$ can be taken out of the right side because they are constants, so the partial derivative is not affected by them.
+$$\mu_0\epsilon_0$$ can be taken out of the right side because they are constants, so the partial derivative is not affected by them: \
 $$\nabla^2\textbf{E}=\mu_0\epsilon_0\frac{\partial^2 \textbf{E}}{\partial t^2}$$
 
-Moving the constants to the other side:
+Moving the constants to the other side: \
 $$\frac{\partial^2 \textbf{E}}{\partial t^2}=\frac{1}{\mu_0\epsilon_0}\nabla^2\textbf{E}$$
 
 
-Compare this to the general form of the wave equation we found in an earlier part:
+Compare this to the general form of the wave equation we found in an earlier part: \
 $$\frac{\partial^2 u}{\partial t^2}=c^2\frac{\partial^2 u}{\partial x^2}$$
 
 We have the second time derivative on the left side, and a constant multiplied by the second space derivative on the right side. The forms match! Just by manipulating Maxwell's equations, we've found a relationship between the time and space derivatives of electric field. We even see a relationship between the fundamental constants $$\mu_0$$ and $$\epsilon_0$$ and the "wave speed propagation" constant $$c$$ -- in particular,
