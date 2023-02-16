@@ -31,7 +31,7 @@ $$\textbf{F}=m\textbf{a}$$ (Newton's second law)
 
 and
 
-$$\textbf{F}=\frac{1}{4\pi \epsilon_0} \frac{q_1 q_2}{{r}^2}$$ (Coulomb's law).
+$$\textbf{F}=\frac{1}{4\pi \epsilon_0} \frac{q_1 q_2}{r^2}$$ (Coulomb's law).
 
 What's important to note about these kinds of equations is that they are not "laws" in the sense that they can never be broken, but rather they are *empirical equations* that model what people have observed over time. Newton felt an apple fall on his head with the force of 5 newtons, and using the mass of the apple, he found a relationship bewtween the force he felt, the mass of the apple, and how fast the apple was accelerating in the air.
 
