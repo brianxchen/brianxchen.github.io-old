@@ -55,10 +55,10 @@ $$\nabla \times \textbf{A}$$ is called the **curl** of $$\textbf{A}$$, and is al
 ### Finding the electromagnetic wave equation
 We'll assume that there are **no sources** -- this means $$\rho=0$$ and $$\textbf{J}=0$$. Thus, we reduce the Maxwell's equations to 
 
-1. $$\nabla \cdot \textbf{E}=0$$
-2. $$\nabla \cdot \textbf{B}=0$$
-3. $$\nabla \times \textbf{E}=-\frac{\partial B}{\partial t}$$
-4. $$\nabla \times \textbf{B}=\mu_0\epsilon_0\frac{\partial \textbf{E}}{\partial t}$$
+1. $$\nabla \cdot \textbf{E}=0$$ \
+2. $$\nabla \cdot \textbf{B}=0$$ \
+3. $$\nabla \times \textbf{E}=-\frac{\partial B}{\partial t}$$ \
+4. $$\nabla \times \textbf{B}=\mu_0\epsilon_0\frac{\partial \textbf{E}}{\partial t}$$ \
 
 Let's take the curl of equation 3:\
 $$\nabla \times (\nabla \times \textbf{E})=\nabla \times (-\frac{\partial B}{\partial t})$$
