@@ -22,9 +22,9 @@ The theory of "fuzzy objects" necessarily rejects classical logic. Using the not
 
 A paper in 1978 by philosopher Gareth Evans responded to this argument, and is famous in both its brevity (it's only a page long) and its seemingly watertight argument. Here's the argument:
 
-Let $$a$$ and $$b$$ be singular semantic terms, and $$a=b$$ be of indeterminate truth value. \
+Let $$a$$ and $$b$$ be singular semantic terms, and $$a=b$$ be of indeterminate truth value.
 
-Let $$\nabla$$ be an operator that expresses indeterminacy. Thus, we can write
+Let $$\nabla$$ be an operator that expresses indeterminacy. Thus, we can write \
 $$(1)\space \nabla(a=b)$$
 
 We also notice that \
