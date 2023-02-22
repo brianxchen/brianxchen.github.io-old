@@ -25,17 +25,17 @@ A paper in 1978 by philosopher Gareth Evans responded to this argument, and is f
 Let $$a$$ and $$b$$ be singular semantic terms, and $$a=b$$ be of indeterminate truth value. \
 
 Let $$\nabla$$ be an operator that expresses indeterminacy. Thus, we can write
-$$(1)\space \nabla(a=b)$$ \
+$$(1)\space \nabla(a=b)$$
 
 We also notice that \
 $$(2)\stackrel{A}{\times}[\nabla(x=a)]b$$, \
-for some property $$\stackrel{A}{\times}$$ ascribed to $$b$$. \
+for some property $$\stackrel{A}{\times}$$ ascribed to $$b$$.
 
 However, we can also state \
-$$(3)\space\neg\nabla(a=a)$$, \
+$$(3)\space\neg\nabla(a=a)$$,
 
 and therefore \
-$$(4)\space\neg\stackrel{A}{\times}[\nabla(x=a)]a$$. \
+$$(4)\space\neg\stackrel{A}{\times}[\nabla(x=a)]a$$.
 
 By Leibniz' law, (2) and (4) gives us that \
 $$(5)\space \neg(a=b)$$,\
@@ -52,7 +52,7 @@ When written in the language of formal logic, this argument is basically incompr
 (2) Then, we can say $$b$$ has the property of being such that it is indeterminate whether it is equal to $$a$$. In other words, one of the properties that $$b$$ has is that we don't know whether it is identical to $$a$$. \
 (3) However, does $$a$$ have that same property? It shouldn't -- logically, $$a$$ should always be determinally identical to itself, regardless of $$b$$ or anything else. \
 (4) Therefore, $$a$$ and $$b$$ do not share the same properties, and if two objects do not share the same properties, they must be distinct. \
-(5) Thus, it is not indeterminate whether $$a=b$$; they are definitely different. \
+(5) Thus, it is not indeterminate whether $$a=b$$; they are definitely different.
 
 ### So... there are no fuzzy objects?
 
