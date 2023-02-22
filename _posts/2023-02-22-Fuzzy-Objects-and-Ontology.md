@@ -22,23 +22,23 @@ The theory of "fuzzy objects" necessarily rejects classical logic. Using the not
 
 A paper in 1978 by philosopher Gareth Evans responded to this argument, and is famous in both its brevity (it's only a page long) and its seemingly watertight argument. Here's the argument:
 
-Let $$a$$ and $$b$$ be singular semantic terms, and $$a=b$$ be of indeterminate truth value.
+Let $$a$$ and $$b$$ be singular semantic terms, and $$a=b$$ be of indeterminate truth value. \
 
 Let $$\nabla$$ be an operator that expresses indeterminacy. Thus, we can write
-$$(1)\space \nabla(a=b)$$
+$$(1)\space \nabla(a=b)$$ \
 
-We also notice that
-$$(2)\stackrel{A}{\times}[\nabla(x=a)]b$$, 
-for some property $$\stackrel{A}{\times}$$ ascribed to $$b$$.
+We also notice that \
+$$(2)\stackrel{A}{\times}[\nabla(x=a)]b$$, \
+for some property $$\stackrel{A}{\times}$$ ascribed to $$b$$. \
 
-However, we can also state 
-$$(3)\space\neg\nabla(a=a)$$,
+However, we can also state \
+$$(3)\space\neg\nabla(a=a)$$, \
 
-and therefore 
-$$(4)\space\neg\stackrel{A}{\times}[\nabla(x=a)]a$$.
+and therefore \
+$$(4)\space\neg\stackrel{A}{\times}[\nabla(x=a)]a$$. \
 
-By Leibniz' law, (2) and (4) gives us that
-$$(5)\space \neg(a=b)$$,
+By Leibniz' law, (2) and (4) gives us that \
+$$(5)\space \neg(a=b)$$,\
 which gives us a contradiction with (1), namely that $$a$$ and $$b$$ are not indeterminately identical to each other. 
 
 Therefore, $$a$$ and $$b$$ are definitely distinct. $$\square$$
@@ -48,11 +48,11 @@ Therefore, $$a$$ and $$b$$ are definitely distinct. $$\square$$
 ### What does that mean?
 When written in the language of formal logic, this argument is basically incomprehensible unless you have seen all of these symbols before. However, the argument is actually not that complicated: here it is translated to regular language.
 
-(1) Let's assume $$a$$ and $$b$$, which are two random objects, are indeterminately identical. This is going to be a proof by contradiction.
-(2) Then, we can say $$b$$ has the property of being such that it is indeterminate whether it is equal to $$a$$. In other words, one of the properties that $$b$$ has is that we don't know whether it is identical to $$a$$.
-(3) However, does $$a$$ have that same property? It shouldn't -- logically, $$a$$ should always be determinally identical to itself, regardless of $$b$$ or anything else.
-(4) Therefore, $$a$$ and $$b$$ do not share the same properties, and if two objects do not share the same properties, they must be distinct.
-(5) Thus, it is not indeterminate whether $$a=b$$; they are definitely different.
+(1) Let's assume $$a$$ and $$b$$, which are two random objects, are indeterminately identical. This is going to be a proof by contradiction. \
+(2) Then, we can say $$b$$ has the property of being such that it is indeterminate whether it is equal to $$a$$. In other words, one of the properties that $$b$$ has is that we don't know whether it is identical to $$a$$. \
+(3) However, does $$a$$ have that same property? It shouldn't -- logically, $$a$$ should always be determinally identical to itself, regardless of $$b$$ or anything else. \
+(4) Therefore, $$a$$ and $$b$$ do not share the same properties, and if two objects do not share the same properties, they must be distinct. \
+(5) Thus, it is not indeterminate whether $$a=b$$; they are definitely different. \
 
 ### So... there are no fuzzy objects?
 
