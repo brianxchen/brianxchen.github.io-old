@@ -52,7 +52,7 @@ However, as a scholar trained in the Confucian school, the direction we shall ta
 **CONCLUSION.** \
 From every human endeavor pours ten thousand ripples that cascade throughout our society. The effects of policy, of familial values, and more impacts the people in ways more fundamental than can be easily grasped. The duty of the leader is, thus, to set a virtuous example for their subjects. Only through the correct education of our youth[^14] – both in school structures and at home – can a benevolent society progress into the next generations, and it is the role of the leader to ensure this happens properly. 
 
-#### DIALOGUE.[^15] \
+#### DIALOGUE.[^15]
 **MILL**: Will you join me for lunch? There’s no other empty seat around – you know how crowded John Jay gets at lunchtime… \
 **BURKE**: Yes, of course! I had just come from the newsstand. I’m not sure if you’ve heard, but there was something of an ideological revolution in the East. There was a declaration to accompany it. \
 **MILL**: I had not heard! I barely had time to sit down before. Here, let me see this declaration – let’s see if they’ve managed to fix their pernicious stagnation[^16]. It’s a shame, really, they used to be the top of the world – thousands of years of well-educated scholars, and yet now they don’t hold a candle to us Europeans’ technological and societal progress[^17].
