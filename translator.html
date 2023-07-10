@@ -37,7 +37,7 @@
             var d = a.target || a.srcElement; d.onmouseout = function () { B.style.visibility = "hidden"; B.style.left = "-1000px"; B.style.top = "-1000px"; B.style.width = ""; G.j(d) }; G.l(d); b = b ? b : d.lastChild.nodeValue ? d.lastChild.nodeValue : d.lastChild.lastChild.nodeValue; a = E[b][0]; var c = E[b][1], e = E[b][2], g = ""; if (b !== e) {
                 for (var f = 0; f < b.length; ++f)g +=
                     b[f] !== e[f] ? e[f] : "-"; g = " [" + g + "]"
-            } b = '<div id="mandarinspot-tip-hz">' + b + g + "</div>"; f = 0; for (e = a.length; f < e; ++f)g = F ? c[f].replace(/([^<])\//g, "$1 / ") : "- " + c[f].replace(/([^<])\//g, "$1<br />- "), b += '<div id="mandarinspotspot-tip-py">' + a[f] + '</div><div id="mandarinspotspot-tip-en">' + g + "</div>"; x.bookmark || J || (b += '<div id="mandarinspotspot-tip-fo" style="font-size:xx-small;color:#777;text-align:center;margin-top:1ex">MandarinSpot.com</div>'); B.innerHTML = b; G.m(d, B); B.style.visibility = "visible"
+            } b = '<div id="mandarinspot-tip-hz">' + b + g + "</div>"; f = 0; for (e = a.length; f < e; ++f)g = F ? c[f].replace(/([^<])\//g, "$1 / ") : "- " + c[f].replace(/([^<])\//g, "$1<br />- "), b += '<div id="mandarinspotspot-tip-py">' + a[f] + '</div><div id="mandarinspotspot-tip-en">' + g + "</div>"; x.bookmark || J || (b += '<div id="mandarinspotspot-tip-fo" style="font-size:xx-small;color:#FFF;text-align:center;margin-top:1ex">MandarinSpot.com</div>'); B.innerHTML = b; G.m(d, B); B.style.visibility = "visible"
         }
     } function ja(a) {
         if ("undefined" ==
