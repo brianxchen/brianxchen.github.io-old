@@ -1,0 +1,6 @@
+{% for js_file in site.static_files %}
+{% if js_file.path contains 'js' %}
+    <p>{{js_file.path}} - {{js_file.modified_time}}</p>
+    <img src="{{site.baseurl}}{{js_file.path}}">
+{% endif %}
+{% endfor %}
