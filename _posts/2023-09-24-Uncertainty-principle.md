@@ -5,8 +5,6 @@ tags:
   - physics
   - math
 ---
-# Heisenberg uncertainty principle, proved with just math
-
 ## Intro
 This was a homework problem that I had for my mathematical methods for physics class, and I really enjoyed it! It was good practice using bra-ket notation and derives a really, really fundamental property about the world. It's really amazing how an inequality concerning physical observables -- the position of an object, its momentum, etc. -- have a profound relationship that can be expressed through pure math. This comes about by virtue of the idea that these quantities are treated as "operators" (like multiplication and division) acting on a wave function $\psi$ in quantum mechanics.
 
@@ -18,7 +16,7 @@ $$|\braket{a|b}| \le \sqrt{\braket{a|a}\braket{b|b}}$$.
 
 Since $A$ and $B$ are operators, when we operate on some vector $\psi$ by either of these, we get a vector. Consider $a=A\psi$ and $b=B\psi$.
 
-Plugging this into the Schwarz inequality yields \ $$|\braket{A\psi|B\psi}| \le \sqrt{\braket{A\psi|A\psi}\braket{B\psi|B\psi}}$$ \ $$\begin{equation} |\bra{\psi}AB\ket{\psi}|^2 \le \bra{\psi}A^2\ket{\psi}|\bra{\psi}B^2\ket{\psi}\end{equation}$$.
+Plugging this into the Schwarz inequality yields \ $$|\braket{A\psi|B\psi}| \le \sqrt{\braket{A\psi|A\psi}\braket{B\psi|B\psi}}$$ \ $$|\bra{\psi}AB\ket{\psi}|^2 \le \bra{\psi}A^2\ket{\psi}|\bra{\psi}B^2\ket{\psi}$$.
 
 ## Part 2 -- Triangle inequality
 
