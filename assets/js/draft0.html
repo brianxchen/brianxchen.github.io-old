@@ -51,7 +51,13 @@
       rotatableSquare.style.transform = `rotate(${rotation}deg)`;
 
       // Change color based on rotation angle
-      rotatableSquare.style.backgroundColor = Math.abs(rotation) >= 90 ? 'green' : 'black';
+      if(Math.abs(Math.abs(rotation) - 90)<5){
+          rotatableSquare.style.backgroundColor = 'green';
+      }
+      else{
+          rotatableSquare.style.backgroundColor = 'black';
+      }
+      // rotatableSquare.style.backgroundColor = Math.abs(rotation) >= 85 ? 'green' : 'black';
     }
   });
 </script>
