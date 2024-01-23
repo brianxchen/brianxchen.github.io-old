@@ -1,9 +1,9 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
-<script src="nutshell.js"><script>
+<script src="nutshell.js"></script>
 I am a junior at [Columbia University](https://columbia.edu) studying physics, computer science, and math. 
 
 My academic and scientific interests evolve frequently, but broadly I'm into applied physics: using physics principles to investigate phenomena and create technologies that can be applied in real-world contexts. Most recently, I spent a summer in the Materials Science Division of [Lawrence Livermore National Laboratory](https://pls.llnl.gov/research-and-development/materials-science), where I utilized a variety of image and signal processing techniques to understand the turbulent physical processes that govern [laser drilling](https://en.wikipedia.org/wiki/Laser_drilling). That work will be published in an upcoming paper. In the past I've also worked on condensed matter physics/2D materials research in Columbia's [Pasupathy Lab](https://anp-lab.physics.columbia.edu/) and volumetric light-sheet imaging at the [Laboratory for Functional Optical Imaging](https://hillmanlab.zuckermaninstitute.columbia.edu/) at Columbia's Zuckerman Mind Brain Behavior Institute.
