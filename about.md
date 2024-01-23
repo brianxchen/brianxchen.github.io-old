@@ -20,9 +20,9 @@ Some of my other interests include [badminton](http://www.columbia.edu/cu/badmin
 
 The best way to reach me is via email: [bc2924@columbia.edu](mailto:bc2924@columbia.edu). Social media also works great! Please do not hesitate to reach out.
 
-## x: fischer
+## :x fischer
 The "Fischer Number" is an idea invented by Christian Hesse based on the famous "six degrees of separation" concept. Bobby Fischer was the 11th World Chess Champion and considered by many as the greatest chess player of all time. One's "Fischer number" is calculated as such: Bobby Fischer himself has Fischer number 0. If you have beaten Bobby Fischer in a tournament, your Fischer number is 2. If you have beaten someone with a Fischer number 1, your Fischer number is 2, etc. Some famous chess players' Fischer numbers are as follows: Garry Kasparov, 2; Magnus Carlsen, 3; Deep Blue, 3; etc.
 
 My Fischer number is 2, due to an extremely fortune series of circumstances. When I was young, I used to play at the Seattle Chess Club. One of the stalwarts of this little club was a man named [Viktor Pupols](https://en.wikipedia.org/wiki/Viktors_Pupols). At this point he clearly played only for fun, but still retained a rating above master strength. In 2016, I managed to beat him in a tournament game.
 
-It turns out that [:Pupols himself in fact beat Bobby Fischer](https://www.chessgames.com/perl/chessgame?gid=1044024), in the US Junior Championship 1955 (some sixty years prior). This was supposedly one of only two games Fischer ever lost on time.
+It turns out that [Pupols himself in fact beat Bobby Fischer](https://www.chessgames.com/perl/chessgame?gid=1044024), in the US Junior Championship 1955 (some sixty years prior). This was supposedly one of only two games Fischer ever lost on time.
